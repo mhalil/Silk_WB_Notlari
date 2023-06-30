@@ -7,7 +7,7 @@ Silk, NURBS Düşük derece ve dikiş sürekliliğine odaklanan yüzey modelleme
 
 ![silk_demo](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Silk_Demo_03_01.png?raw=true)
 
-NURBS: formu/şekli nispeten az sayıda "kontrol noktası" tarafından kontrol edilen, pürüzsüz eğriler ve yüzeylerdir. 
+**NURBS**: formu/şekli nispeten az sayıda "kontrol noktası" tarafından kontrol edilen, pürüzsüz eğriler ve yüzeylerdir. 
 Adından da anlaşılacağı gibi, "kontrol noktaları", kullanıcının eğrileri veya yüzeyleri kontrol etmek için değiştirdiği şeylerdir. 
 Bir NURBS'nin "iyileştirilmesi" derecesi tarafından kontrol edilir ve bir kontrol noktasının "etki mesafesi" NURBS'nin düğüm vektörü tarafından kontrol edilir.
 
