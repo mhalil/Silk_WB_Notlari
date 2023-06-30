@@ -1,5 +1,5 @@
 # Silk ÇalışmaTezgahı (WorkBench) Notları
-FreeCAD Eklentisi olan Silk Workbench Notlarının paylaşıldığı repo.
+Silk ÇalışmaTezgahı (Workbench) Notlarının paylaşıldığı repo.
 ![silk](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Silk_Demo_02.png?raw=true)
 
 Silk workbench, FreeCAD'de NURBS yüzeyleri oluşturan bir Harici çalışma tezgahıdır.
