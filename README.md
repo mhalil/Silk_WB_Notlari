@@ -15,7 +15,9 @@ Bir NURBS'nin "iyileştirilmesi" derecesi tarafından kontrol edilir ve bir kont
 
 **Dikiş Sürekliliği (Seam Continuity)**: Silk'in amacı, farklı NURBS bölümlerinden karmaşık modellerin oluşturulmasına olanak tanımak, alternatif olarak mevcut yüzeylere sürekli olacak yeni yüzeyler oluşturmak veya yüzeylerin başlangıçta süreksizliklerle oluşturulduğu yerlerde yumuşak geçişler oluşturmak için araçlar sağlamaktır.
 
+Aşağıdaki animasyon, eğri ve yüzey sürekliliğinin tam mühendislik kontrolü ile eskizler aracılığıyla ince yüzey ayarını göstermektedir. Profil kontrol çiziminde kullanılan kontrol noktası sayısının az olduğuna dikkat edin. Belirli bir karmaşıklığa kadar Silk, eskiz düzenleme ile neredeyse gerçek zamanlı olarak güncellenir.
 
+![anim](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Steering_Wheel_01_01.gif?raw=true)
 
 Kaynak:
 https://github.com/edwardvmills/Silk
