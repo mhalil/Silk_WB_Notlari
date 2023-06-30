@@ -7,6 +7,8 @@ Silk, NURBS Düşük derece ve dikiş sürekliliğine odaklanan yüzey modelleme
 
 ![silk_demo](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Silk_Demo_03_01.png?raw=true)
 
+## TANIMLAR
+
 **NURBS**: formu/şekli nispeten az sayıda "kontrol noktası" tarafından kontrol edilen, pürüzsüz eğriler ve yüzeylerdir. 
 Adından da anlaşılacağı gibi, "kontrol noktaları", kullanıcının eğrileri veya yüzeyleri kontrol etmek için değiştirdiği şeylerdir. 
 Bir NURBS'nin "iyileştirilmesi" derecesi tarafından kontrol edilir ve bir kontrol noktasının "etki mesafesi" NURBS'nin düğüm vektörü tarafından kontrol edilir.
@@ -18,6 +20,10 @@ Bir NURBS'nin "iyileştirilmesi" derecesi tarafından kontrol edilir ve bir kont
 Aşağıdaki animasyon, eğri ve yüzey sürekliliğinin tam mühendislik kontrolü ile eskizler aracılığıyla ince yüzey ayarını göstermektedir. Profil kontrol çiziminde kullanılan kontrol noktası sayısının az olduğuna dikkat edin. Belirli bir karmaşıklığa kadar Silk, eskiz düzenleme ile neredeyse gerçek zamanlı olarak güncellenir.
 
 ![anim](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Steering_Wheel_01_01.gif?raw=true)
+
+
+## Kurulum
+Silk ÇalışmaTezgahı (WorkBench), `Araçlar -> Eklenti Yöneticisi (Tools -> Addon Manager)` menü yolu kullanılarak ulaşılan, [FreeCAD Eklenti Yöneticisi (Addon Manager)](https://wiki.freecadweb.org/AddonManager) aracılığıyla kolayca kurulabilir.
 
 Kaynak:
 https://github.com/edwardvmills/Silk
