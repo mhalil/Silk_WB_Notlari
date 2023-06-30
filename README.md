@@ -21,6 +21,12 @@ Aşağıdaki animasyon, eğri ve yüzey sürekliliğinin tam mühendislik kontro
 
 ![anim](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Steering_Wheel_01_01.gif?raw=true)
 
+## KISITLMALAR
+Silk, uzun vadede verimli ve kullanıcı dostu araçlar sağlamayı amaçlasa da, şu anda işlevlerine GUI erişimi olan düşük seviyeli bir kitaplık gibi davranıyor. Bağımsız işlevler, ayrı belge nesneleri oluşturur ve gelecekte, karmaşık iç içe nesneler oluşturmak için ilgili işlevler otomatik olarak birbirine zincirlenebilir. Mevcut nesnelerin, hem bireysel belge nesneleri olarak hem de gelecekte alt nesneler olarak kalma olasılığı çok yüksektir.
+
+Mevcut durumda modelleme yapılabilir ve ortaya çıkan veri yapıları verimlidir, ancak süreç zahmetli olabilir. Kullanıcı dostu olmaya yönelik en iyi yol, büyük ölçüde FreeCAD topluluğu içinde parçaların, katı gövdelerin, düzeneklerin ve nesne bağlantılarının nasıl organize edildiğine dair çeşitli tartışmaların sonucuna bağlı olacaktır.
+
+Bu arada Silk, FreeCAD'de başka türlü bulunmayan birkaç araç (örn. `3D spline`) sunar ve genel olarak yüzey tasarımı, kontrol stratejileri, veri yapıları ve algoritmalar için bir sanal alan olarak görülebilir.
 
 ## Kurulum
 Silk ÇalışmaTezgahı (WorkBench), `Araçlar -> Eklenti Yöneticisi (Tools -> Addon Manager)` menü yolu kullanılarak ulaşılan, [FreeCAD Eklenti Yöneticisi (Addon Manager)](https://wiki.freecadweb.org/AddonManager) aracılığıyla kolayca kurulabilir.
