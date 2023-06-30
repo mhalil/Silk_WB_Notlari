@@ -7,7 +7,7 @@ Silk, NURBS Düşük derece ve dikiş sürekliliğine odaklanan yüzey modelleme
 
 ![silk_demo](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Silk_Demo_03_01.png?raw=true)
 
-## TANIMLAR
+## Tanımlar
 
 **NURBS**: formu/şekli nispeten az sayıda "kontrol noktası" tarafından kontrol edilen, pürüzsüz eğriler ve yüzeylerdir. 
 Adından da anlaşılacağı gibi, "kontrol noktaları", kullanıcının eğrileri veya yüzeyleri kontrol etmek için değiştirdiği şeylerdir. 
@@ -21,7 +21,7 @@ Aşağıdaki animasyon, eğri ve yüzey sürekliliğinin tam mühendislik kontro
 
 ![anim](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Steering_Wheel_01_01.gif?raw=true)
 
-## KISITLMALAR
+## Kısıtlamalar
 Silk, uzun vadede verimli ve kullanıcı dostu araçlar sağlamayı amaçlasa da, şu anda işlevlerine GUI erişimi olan düşük seviyeli bir kitaplık gibi davranıyor. Bağımsız işlevler, ayrı belge nesneleri oluşturur ve gelecekte, karmaşık iç içe nesneler oluşturmak için ilgili işlevler otomatik olarak birbirine zincirlenebilir. Mevcut nesnelerin, hem bireysel belge nesneleri olarak hem de gelecekte alt nesneler olarak kalma olasılığı çok yüksektir.
 
 Mevcut durumda modelleme yapılabilir ve ortaya çıkan veri yapıları verimlidir, ancak süreç zahmetli olabilir. Kullanıcı dostu olmaya yönelik en iyi yol, büyük ölçüde FreeCAD topluluğu içinde parçaların, katı gövdelerin, düzeneklerin ve nesne bağlantılarının nasıl organize edildiğine dair çeşitli tartışmaların sonucuna bağlı olacaktır.
