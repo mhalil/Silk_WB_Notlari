@@ -28,6 +28,8 @@ Mevcut durumda modelleme yapılabilir ve ortaya çıkan veri yapıları verimlid
 
 Bu arada Silk, FreeCAD'de başka türlü bulunmayan birkaç araç (örn. `3D spline`) sunar ve genel olarak yüzey tasarımı, kontrol stratejileri, veri yapıları ve algoritmalar için bir sanal alan olarak görülebilir.
 
+![Steering_Wheel_03_05](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Steering_Wheel_03_05.png?raw=true)
+
 ## Kurulum
 Silk ÇalışmaTezgahı (WorkBench), `Araçlar -> Eklenti Yöneticisi (Tools -> Addon Manager)` menü yolu kullanılarak ulaşılan, [FreeCAD Eklenti Yöneticisi (Addon Manager)](https://wiki.freecadweb.org/AddonManager) aracılığıyla kolayca kurulabilir.
 
