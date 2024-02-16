@@ -45,4 +45,4 @@ Sayfada paylaşılan bilgiler [edwardvmills/Silk](https://github.com/edwardvmill
 
 | Önceki Sayfa                     | Sonraki Sayfa      |
 | -------------------------------- | ------------------ |
-| [<< 00 Silk WB Giriş](README.md) | [02 İş Akışı >>]() |
+| [<< 00 Silk WB Giriş](README.md) | [02 İş Akışı >>](02_is_akisi.md) |
