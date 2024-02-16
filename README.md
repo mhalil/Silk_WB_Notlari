@@ -1,38 +1,39 @@
 # Silk ÇalışmaTezgahı (WorkBench) Notları
+
 Silk ÇalışmaTezgahı (Workbench) Notlarının paylaşıldığı repo.
+
 ![silk](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Silk_Demo_02.png?raw=true)
 
-## Silk ÇalışmaTezgahı (WorkBench) Nedir?
-Silk ÇalışmaTezgahı (WorkBench), FreeCAD'de NURBS yüzeyleri oluşturan bir Harici çalışma tezgahıdır.
-Silk, NURBS Düşük derece ve dikiş sürekliliğine odaklanan yüzey modelleme araçlarıdır.
+## Silk Çalışma Tezgahı (Workbench) Nedir?
 
-![silk_demo](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Silk_Demo_03_01.png?raw=true)
+Düşük derece ve dikiş sürekliliğine odaklanan, tasarım ve mühendislik için yüksek kaliteli ve düşük ağırlıklı, NURBS Yüzey modelleme araçları barındıran FreeCAD Çalışma Tezghahıdır (Workbench).
 
-## Tanımlar
+Silk çalışma tezhagı [edwardvmills](https://edwardvmills.github.io/Silk/) tarafından, [GitHub](https://github.com/edwardvmills/Silk) adresinde geliştirilmektedir.
 
-**NURBS**: formu/şekli nispeten az sayıda "kontrol noktası" tarafından kontrol edilen, pürüzsüz eğriler ve yüzeylerdir. 
-Adından da anlaşılacağı gibi, "kontrol noktaları", kullanıcının eğrileri veya yüzeyleri kontrol etmek için değiştirdiği şeylerdir. 
-Bir NURBS'nin "iyileştirilmesi" derecesi tarafından kontrol edilir ve bir kontrol noktasının "etki mesafesi" NURBS'nin düğüm vektörü tarafından kontrol edilir.
+Silk Çalışma Tezgahı ile Modellenen Yüzeylere ait bir kaç görsel aşağıda mevcuttur.
 
-**Düşük Derece (Low Degree)**: Silk NURBS eğrileri ve yüzeyleri, istenilen amaca uygun minimum derecededir. Düğüm vektörleri küçük bir tutarlı kümede tutulur. Genellikle NURBS modelleme problemlerinde görünen çözüm, düğümlerin derecesini ve sayısını artırmaktır. Bu tamamen geçerli olsa da, kontrol noktalarının hesaplama zorluklarını ve organizasyon zorluklarını artırıyor. Silk, çözülen her problem için mutlak minimum matematiksel karmaşıklığa sahip araçlar sağlamayı amaçlar.
+![Silk_Front_Page_02](https://raw.githubusercontent.com/edwardvmills/Silk/master/Resources/Demo_files/Silk_Front_Page_02.png)
 
-**Dikiş Sürekliliği (Seam Continuity)**: Silk'in amacı, farklı NURBS bölümlerinden karmaşık modellerin oluşturulmasına olanak tanımak, alternatif olarak mevcut yüzeylere sürekli olacak yeni yüzeyler oluşturmak veya yüzeylerin başlangıçta süreksizliklerle oluşturulduğu yerlerde yumuşak geçişler oluşturmak için araçlar sağlamaktır.
+![Curva3D_silk_reboot_01_13](https://raw.githubusercontent.com/edwardvmills/Silk/master/Resources/Demo_files/Curva3D_silk_reboot_01_13.PNG)
 
-Aşağıdaki animasyon, eğri ve yüzey sürekliliğinin tam mühendislik kontrolü ile eskizler aracılığıyla ince yüzey ayarını göstermektedir. Profil kontrol çiziminde kullanılan kontrol noktası sayısının az olduğuna dikkat edin. Belirli bir karmaşıklığa kadar Silk, eskiz düzenleme ile neredeyse gerçek zamanlı olarak güncellenir.
+![CadDivision_Simple_01_11](https://raw.githubusercontent.com/edwardvmills/Silk/master/Resources/Demo_files/CadDivision_Simple_01_11.PNG)
 
-![anim](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Steering_Wheel_01_01.gif?raw=true)
+## Konu Başlıkları
 
-## Kısıtlamalar
-Silk, uzun vadede verimli ve kullanıcı dostu araçlar sağlamayı amaçlasa da, şu anda işlevlerine GUI erişimi olan düşük seviyeli bir kitaplık gibi davranıyor. Bağımsız işlevler, ayrı belge nesneleri oluşturur ve gelecekte, karmaşık iç içe nesneler oluşturmak için ilgili işlevler otomatik olarak birbirine zincirlenebilir. Mevcut nesnelerin, hem bireysel belge nesneleri olarak hem de gelecekte alt nesneler olarak kalma olasılığı çok yüksektir.
++ [Genel Bakış](01_genel_bakis.md)
++ [İş Akışı](02_is_akisi.md)
 
-Mevcut durumda modelleme yapılabilir ve ortaya çıkan veri yapıları verimlidir, ancak süreç zahmetli olabilir. Kullanıcı dostu olmaya yönelik en iyi yol, büyük ölçüde FreeCAD topluluğu içinde parçaların, katı gövdelerin, düzeneklerin ve nesne bağlantılarının nasıl organize edildiğine dair çeşitli tartışmaların sonucuna bağlı olacaktır.
+## Öğretici Dokümanlar (Tutorials)
 
-Bu arada Silk, FreeCAD'de başka türlü bulunmayan birkaç araç (örn. `3D spline`) sunar ve genel olarak yüzey tasarımı, kontrol stratejileri, veri yapıları ve algoritmalar için bir sanal alan olarak görülebilir.
-
-![Steering_Wheel_03_05](https://github.com/edwardvmills/Silk/raw/master/Resources/Demo_files/Steering_Wheel_03_05.png?raw=true)
-
-## Kurulum
-Silk ÇalışmaTezgahı (WorkBench), `Araçlar -> Eklenti Yöneticisi (Tools -> Addon Manager)` menü yolu kullanılarak ulaşılan, [FreeCAD Eklenti Yöneticisi (Addon Manager)](https://wiki.freecadweb.org/AddonManager) aracılığıyla kolayca kurulabilir.
-
-Kaynak:
-https://github.com/edwardvmills/Silk
++ [Öğretici Doküman 1 (Tutorial 0.01)](egitim_1.md)
++ Öğretici Doküman 2_1 (Tutorial 0.02_1)
+  + Öğretici Doküman 2_2 (Tutorial 0.02_2)
+  + Öğretici Doküman 2_3 (Tutorial 0.02_3)
+  + Öğretici Doküman 2_4 (Tutorial 0.02_4)
+  + Öğretici Doküman 2_5 (Tutorial 0.02_5)
+  + Öğretici Doküman 2_6 (Tutorial 0.02_6)
+  + Öğretici Doküman 2_7 (Tutorial 0.02_7)
++ Öğretici Doküman 3_1 (Tutorial 0.03_1)
+  + Öğretici Doküman 3_2 (Tutorial 0.03_2)
+  + Öğretici Doküman 3_3 (Tutorial 0.03_3)
+  + Öğretici Doküman 3_4 (Tutorial 0.03_4)
