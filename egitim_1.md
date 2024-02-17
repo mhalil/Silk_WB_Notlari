@@ -52,7 +52,7 @@ Bu komutu çalıştığında, belgede bir **ControlPoly4_3L** nesnesi oluşturur
 
 Üç çizgili eskiz (sketch), oluşan **ControlPoly4_3L** nesnesinin üzerinde olduğu için ControlPoly4_3L nesnesini gizler. İsterseniz ControlPoly4_3L nesnesini doğrudan görmek için eskizi (sketch'i) gizleyin.
 
-****ControlPoly4_3L** nesnesi seçildiğinde, **Veri (Data)** Sekmesinde iki parametre görebilirsiniz:
+**ControlPoly4_3L** nesnesi seçildiğinde, **Veri (Data)** Sekmesinde iki parametre görebilirsiniz:
 
 * **Sketch** (Eskiz) - Bu girdi nesnesi seçimidir ve başka bir taslakla yeniden eşleştirilebilir (ayrıca uçtan uca tam olarak üç satırdan oluşur)
 
