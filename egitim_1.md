@@ -224,9 +224,9 @@ Herhangi bir tek eskiz için **ControlPoly4** makrosu (komutu), tam olarak 3 esk
 
 ![_21 freebie elliptic arc and line come for free](https://raw.githubusercontent.com/edwardvmills/NURBSlib_EVM/master/Tutorial%20Models/ControlPoly4%20and%20CubicCurve4/_21%20freebie%20elliptic%20arc%20and%20line%20come%20for%20free.png)
 
-| Sonraki Sayfa              |
-| -------------------------- |
-| [Öğretici Doküman 2 >>](#) |
+| Ana Sayfa              | Sonraki Sayfa                            |
+| ---------------------- | ---------------------------------------- |
+| [<< Ana Sayfa](README.md) | [Öğretici Doküman 2.1 >>](egitim_2-1.md) |
 
 ### Kaynak:
 
