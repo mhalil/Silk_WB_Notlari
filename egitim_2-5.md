@@ -62,7 +62,7 @@ Düzenlenmekte olan eskiz, her resimde DAG görünümünde vurgulanacaktır.
 
 | Önceki Sayfa                                                         | Sonraki Sayfa                |
 | -------------------------------------------------------------------- | ---------------------------- |
-| [<< Öğretici Doküman 2.4 ](egitim_2-4.md) | [Öğretici Doküman 2.6 >>](#) |
+| [<< Öğretici Doküman 2.4 ](egitim_2-4.md) | [Öğretici Doküman 2.6 >>](egitim_2-6.md) |
 
 ### Kaynak:
 
