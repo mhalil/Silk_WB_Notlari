@@ -1,10 +1,3 @@
-Title: FreeCAD - Silk WB - Öğretici Doküman 2.6
-Date: 2024-02-26 21:45
-Modified: 2024-02-26 22:20
-Category: Silk WB
-Tags: FreeCAD, Silk, Workbench, ÇalışmaTezgahı, Eğitsel, Öğretici, Doküman, Tutorial
-Author: Mustafa Halil
-
 # Öğretici Doküman 2.6 (Tutorial 0.02 - P7)
 
 ### Kullanım - devam
@@ -57,7 +50,7 @@ Bugünlük bu kadar. Umarım çok fazla hata yoktur, çünkü bir günde çok fa
 
 | Önceki Sayfa                                                         | Sonraki Sayfa                |
 | -------------------------------------------------------------------- | ---------------------------- |
-| [<< Öğretici Doküman 2.5 ](freecad-silk-wb-ogretici-dokuman-25.html) | [Öğretici Doküman 3.1 >>](#) |
+| [<< Öğretici Doküman 2.5 ](egitim_2-5.md) | [Öğretici Doküman 3.1 >>](egitim_3-1.md) |
 
 ### Kaynak:
 
