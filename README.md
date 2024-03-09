@@ -32,7 +32,7 @@ Silk Çalışma Tezgahı ile Modellenen Yüzeylere ait bir kaç görsel aşağı
   * [Öğretici Doküman 2_4 (Tutorial 0.02_5)](egitim_2-4.md)
   * [Öğretici Doküman 2_5 (Tutorial 0.02_6)](egitim_2-5.md)
   * [Öğretici Doküman 2_6 (Tutorial 0.02_7)](egitim_2-6.md)
-+ Öğretici Doküman 3_1 (Tutorial 0.03_1)
++ [Öğretici Doküman 3_1 (Tutorial 0.03_1)](egitim_3-1.md)
   * Öğretici Doküman 3_2 (Tutorial 0.03_2)
   * Öğretici Doküman 3_3 (Tutorial 0.03_3)
   * Öğretici Doküman 3_4 (Tutorial 0.03_4)
