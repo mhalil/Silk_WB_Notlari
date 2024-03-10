@@ -137,7 +137,7 @@ Bu Eğitim birkaç sayfaya (Öğretici Dokümana) bölünmüştür, bu nedenle s
 
 | Önceki Sayfa                                                         | Sonraki Sayfa                |
 | -------------------------------------------------------------------- | ---------------------------- |
-| [<< Öğretici Doküman 2.6 ](egitim_2-6.md) | [Öğretici Doküman 3.2 >>](#) |
+| [<< Öğretici Doküman 2.6 ](egitim_2-6.md) | [Öğretici Doküman 3.2 >>](egitim_3-2.md) |
 
 ### Kaynak:
 
