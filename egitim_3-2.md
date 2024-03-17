@@ -62,7 +62,7 @@ Bu Eğitim birkaç sayfaya (Öğretici Dokümana) bölünmüştür, bu nedenle s
 
 | Önceki Sayfa                                                         | Sonraki Sayfa                |
 | -------------------------------------------------------------------- | ---------------------------- |
-| [<< Öğretici Doküman 3.1 ](egitim_3-1.md) | [Öğretici Doküman 3.3 >>](#) |
+| [<< Öğretici Doküman 3.1 ](egitim_3-1.md) | [Öğretici Doküman 3.3 >>](egitim_3-3.md) |
 
 ### Kaynak:
 
