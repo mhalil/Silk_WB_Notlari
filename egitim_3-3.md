@@ -51,7 +51,7 @@ Bu Eğitim birkaç sayfaya (Öğretici Dokümana) bölünmüştür, bu nedenle s
 
 | Önceki Sayfa                                                         | Sonraki Sayfa                |
 | -------------------------------------------------------------------- | ---------------------------- |
-| [<< Öğretici Doküman 3.2 ](egitim_3-2.md) | [Öğretici Doküman 3.4 >>](#) |
+| [<< Öğretici Doküman 3.2 ](egitim_3-2.md) | [Öğretici Doküman 3.4 >>](egitim_3-4.md) |
 
 ### Kaynak:
 
